@@ -1,1 +1,1 @@
-# bone-cancer-detection
+# Bone Cancer Detection System
